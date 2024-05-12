@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429304281692",
+    "project_id": "myanlib-dev",
+    "storage_bucket": "myanlib-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429304281692:android:f3b4b7142983afee4f4499",
+        "android_client_info": {
+          "package_name": "com.tech4mm.myan_lib_dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkFjzltVksmD7w46er7UZ9QpzcSvNKWGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
